@@ -9,7 +9,7 @@ from email.utils import formatdate
 
 PORT = 8000
 LOG_FILE = "access.log"
-DISCORD_WEBHOOK = ("https://discord.com/api/webhooks/1491183887639122041/jN54qnRBKW4xzyC-jFsWH9Y7wJuo8ErWRaUtlH_r2rUkf53qQ172fgrRozMDsHW5JDlC")  # Add your Discord webhook URL here
+DISCORD_WEBHOOK = ("https://discord.com/api/webhooks/1461190206375067722/G4xh2ipW-tsE-pgAJJMilMKc4gnMfXfJ7Uwo5nrYETvAMV9S_poQ2Wq0UswWSDhfARHL")  # Add your Discord webhook URL here
 PIXEL_PATH = "/tracking_pixel.gif"
 PIXEL_DATA = b'GIF89a\x01\x00\x01\x00\x80\x00\x00\xff\xff\xff\x00\x00\x00!\xf9\x04\x01\x00\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;'
 
